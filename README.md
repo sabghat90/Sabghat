@@ -1,7 +1,7 @@
-Name: Sabghat Ullah Khan
-Reg#: CS120192060
-Section: A
-Submitted To: Dr. Jawad Ashraf
+Name: Sabghat Ullah Khan <br>
+Reg#: CS120192060 <br>
+Section: A <br>
+Submitted To: Dr. Jawad Ashraf <br>
 
 Instructions
 Prepare a website on a certain topic (reasonable topic) that you want to highlight to the world
