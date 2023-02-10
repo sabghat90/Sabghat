@@ -1,12 +1,16 @@
-Name: Sabghat Ullah Khan <br>
-Reg#: CS120192060 <br>
-Section: A <br>
-Submitted To: Dr. Jawad Ashraf <br>
+## Android App Development
 
-Instructions
-Prepare a website on a certain topic (reasonable topic) that you want to highlight to the world
-The website should be meaningful
-Study color theory and apply colors according to your topic.
-Here are some links for color theory https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437 and https://thenextweb.com/news/how-to-create-the-right-emotions-with-color-in-web-design
-Use as many bootstrap elements as possible, so I could see and gauge your skills.
-Submit it through github
+  A portfolio showcasing your expertise in Android app development.
+
+## Skills
+- Kotlin programming
+- MVVM architecture
+- Dagger Hilt dependency injection
+- Github and other computer programming tools
+
+## Services
+
+  Offering top-notch Android app development services, utilizing your skills and expertise in computer programming tools.
+
+## Contact
+  For inquiries and project requests, feel free to reach out via email at sabghat90@gmail.com or through [LinkedIn](https://www.linkedin.com/in/sabghat90).
